@@ -1,0 +1,6 @@
+{
+  "name": "DealDropz",
+  "description": "Trendy fashion & viral finds affiliate price-comparison app comparing Amazon, Flipkart, and Meesho deals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

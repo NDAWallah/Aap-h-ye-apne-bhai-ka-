@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bag Handle -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M43,40V33C43,26.9 47.9,22 54,22S65,26.9 65,33V40H59V33C59,30.2 56.8,28 54,28S49,30.2 49,33V40H43Z" />
+    <!-- Bag Body -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M34,40H74C76.2,40 78,41.8 78,44L75,76C74.6,80.4 70.9,84 66.5,84H41.5C37.1,84 33.4,80.4 33,76L30,44C30,41.8 31.8,40 34,40Z" />
+    <!-- Lightning Deal Drop cut-out / spark -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M56,47L46,62H53L49,77L63,60H55L58,47H56Z" />
+</vector>
